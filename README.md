@@ -8,6 +8,7 @@ a = lol()
 b = lol()
 ```
 
+
 ## 객체 숫자 지정하기
 ```python
 class fourcal:
