@@ -47,6 +47,7 @@ print(b.first)
 ```
 ### 결과값
 ![image](https://user-images.githubusercontent.com/104752580/226784020-d015e80a-98d1-4dcd-a236-942d4dc7e945.png)
+
 객체를 두개를 선언 할 때는 메서드 호출을 두번 하면 된다. 
 ## 더하기 클래스
 ```python
@@ -144,7 +145,8 @@ print(a.add())
 ```
 ### 결과값
 ![image](https://user-images.githubusercontent.com/104752580/226784368-33566e37-2225-45ff-8a8b-14c351b36c61.png)
-생성자 __init__는 setdata와 동일하게 작용한다. 다른것은 생성자로 인식되어 객체가 생성되는 시점에 자동으로 호출되는 차이가 있다.
+
+생성자 (__init__)는 setdata와 동일하게 작용한다. 다른것은 생성자로 인식되어 객체가 생성되는 시점에 자동으로 호출되는 차이가 있다.
 ## 클래스 상속
 ```python
 class fourcal:
