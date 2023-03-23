@@ -69,7 +69,7 @@ print(a.add())
 ### 결과값
 ![image](https://user-images.githubusercontent.com/104752580/226784059-4623c215-f725-4735-b561-1468f1a51850.png)
 
-add 메서드를 추가하여 result 값을 self.first과 self.second 값을 더한 값으로 리턴시켜 더해준다.
+add 메서드를 추가하여 result 값을 self.first와 self.second 값을 더한 값으로 리턴시켜 더해준다.
 ## 곱하기 클래스
 ```python
 class fourcal: 
